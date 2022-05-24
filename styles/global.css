@@ -1,0 +1,14 @@
+* {
+  font-family: IRANSans;
+}
+
+.rtl {
+  direction: rtl !important;
+}
+
+.ant-form-item-label {
+  text-align-last: right;
+}
+.ant-form-item-explain {
+  text-align-last: right;
+}

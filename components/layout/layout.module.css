@@ -1,0 +1,22 @@
+.navbar {
+    direction: rtl;
+}
+.auth_btn {
+    width: 100px;
+}
+
+.avatar_menu{
+    width: 150px !important;
+    direction: rtl;
+    text-align: center;
+}
+
+.footer{
+    height: 100px;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    direction: rtl;
+    display: flex;
+    align-self: center;
+}

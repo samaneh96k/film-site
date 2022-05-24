@@ -1,0 +1,19 @@
+.slider {
+  height: 560px;
+}
+
+.img_slider {
+  position: absolute;
+  height: 100%;
+}
+.text_img_slider {
+  position: absolute;
+  right: 50px;
+  bottom: 100px;
+  color: white !important;
+  font-family: "IRANSans";
+}
+
+.white_text{
+  color: white !important;
+}

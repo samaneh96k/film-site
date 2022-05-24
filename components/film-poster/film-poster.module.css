@@ -1,0 +1,19 @@
+.text_img_slider {
+  position: absolute;
+  right: 50px;
+  bottom: 10px;
+  color: white !important;
+  font-family: "IRANSans";
+  opacity: 0;
+}
+
+.white_text {
+  color: white !important;
+}
+
+.banner_hover{
+    filter: brightness(0.2) !important;
+}
+.text_img_slider_hover{
+    opacity: 1 !important;
+}

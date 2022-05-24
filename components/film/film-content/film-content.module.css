@@ -1,0 +1,11 @@
+.text_img_slider {
+    position: absolute;
+    right: 100px;
+    bottom: 170px;
+    color: white !important;
+    font-family: "IRANSans";
+  }
+  
+  .white_text{
+    color: white !important;
+  }

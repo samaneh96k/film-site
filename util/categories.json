@@ -1,0 +1,8 @@
+{
+  "cats": [
+    { "text": "علمی تخیلی", "value": "scifi" },
+    { "text": "مستند", "value": "documantry" },
+    { "text": "انیمیشن", "value": "animation" },
+    { "text": "اکشن", "value": "action" }
+  ]
+}

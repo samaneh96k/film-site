@@ -1,0 +1,13 @@
+.card {
+    max-width: 150px;
+    border: 0;
+}
+
+.card_font_hover:hover{
+    font-size: larger;
+    cursor: pointer;
+}
+
+.img_shadow:hover{
+    box-shadow: 5px -5px black;
+}

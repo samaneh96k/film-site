@@ -1,0 +1,24 @@
+.card {
+  border: 0;
+}
+.card:hover {
+  cursor: pointer;
+}
+.card_font_hover:hover {
+  /* font-size: larger; */
+  cursor: pointer;
+  color: green !important;
+}
+
+.img_shadow:hover {
+  box-shadow: 5px -5px black;
+}
+.img_shadow_dark:hover {
+  box-shadow: 5px -5px grey;
+}
+.black_bg{
+  background-color: #343a40!important;
+}
+.text_white {
+  color: white;
+}
